@@ -1,16 +1,40 @@
 {
-  "id": "coolcode-tool-template",
-  "title": "CoolCode Tool Starter",
-  "description": "A browser-only example that trims lines and removes exact duplicates.",
-  "category": "security",
-  "tags": ["text", "lines", "duplicates"],
-  "icon": "scan-search",
-  "url": "/coolcode-tool-template/",
-  "source": "https://github.com/jsdyer/coolcode-tool-template",
+  "id": "sameflight",
+  "title": "Same Flight",
+  "description": "Compare the decisions and individual orders published about passengers on the same departure.",
+  "category": "explorers",
+  "tags": [
+    "airlines",
+    "passenger complaints",
+    "CTA",
+    "flight number",
+    "compensation",
+    "orders"
+  ],
+  "icon": "plane",
+  "url": "/sameflight/",
+  "source": "https://github.com/jsdyer/sameflight",
   "hosting": "project",
   "access": "browser",
   "data_info": {
-    "mode": "local",
-    "detail": "The browser reads the text you paste and compares its lines."
+    "mode": "mixed",
+    "detail": "CTA summaries cover nine departures on December 23, 2023 and January 27, 2024. Compare published decisions and orders, or import a filtered agency export locally.",
+    "cadence": "Manual review",
+    "probes": [
+      {
+        "label": "Data retrieved",
+        "url": "https://coolcode.ca/sameflight/departures.json",
+        "path": [
+          "retrieved"
+        ],
+        "count_at": {
+          "path": [
+            "departures"
+          ],
+          "measure": "length",
+          "unit": "departures"
+        }
+      }
+    ]
   }
 }

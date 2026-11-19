@@ -1,0 +1,529 @@
+{
+  "retrieved": "2026-11-19",
+  "departures": [
+    {
+      "key": "F8-F81100-2024-01-27-YUL-FLL",
+      "carrier": "F8",
+      "flight": "F81100",
+      "date": "2024-01-27",
+      "from": "YUL",
+      "to": "FLL",
+      "first": "2024-05-10",
+      "last": "2026-09-15",
+      "all": {
+        "decisions": 26,
+        "orders": 26,
+        "statements": [
+          {
+            "statement": "Order to compensate for inconvenience",
+            "decisions": 22,
+            "orders": 22,
+            "example": "392640-CO-2024"
+          },
+          {
+            "statement": "Dismissed",
+            "decisions": 4,
+            "orders": 4,
+            "example": "392927-CO-2024"
+          }
+        ]
+      },
+      "issues": [
+        {
+          "issue": "Flight Disruption",
+          "decisions": 26,
+          "orders": 26,
+          "statements": [
+            {
+              "statement": "Order to compensate for inconvenience",
+              "decisions": 22,
+              "orders": 22,
+              "example": "392640-CO-2024"
+            },
+            {
+              "statement": "Dismissed",
+              "decisions": 4,
+              "orders": 4,
+              "example": "392927-CO-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "WS-WS1877-2024-01-27-OGG-YVR",
+      "carrier": "WS",
+      "flight": "WS1877",
+      "date": "2024-01-27",
+      "from": "OGG",
+      "to": "YVR",
+      "first": "2026-06-16",
+      "last": "2026-08-25",
+      "all": {
+        "decisions": 7,
+        "orders": 13,
+        "statements": [
+          {
+            "statement": "Order to compensate for inconvenience",
+            "decisions": 7,
+            "orders": 7,
+            "example": "397126-CO-2026"
+          },
+          {
+            "statement": "Dismissed",
+            "decisions": 3,
+            "orders": 4,
+            "example": "396763-CO-2026"
+          },
+          {
+            "statement": "Order to compensate for expenses",
+            "decisions": 1,
+            "orders": 1,
+            "example": "402612-CO-2026"
+          },
+          {
+            "statement": "Order to refund",
+            "decisions": 1,
+            "orders": 1,
+            "example": "404058-CO-2026"
+          }
+        ]
+      },
+      "issues": [
+        {
+          "issue": "Flight Disruption",
+          "decisions": 7,
+          "orders": 12,
+          "statements": [
+            {
+              "statement": "Order to compensate for inconvenience",
+              "decisions": 7,
+              "orders": 7,
+              "example": "397126-CO-2026"
+            },
+            {
+              "statement": "Dismissed",
+              "decisions": 3,
+              "orders": 4,
+              "example": "396763-CO-2026"
+            },
+            {
+              "statement": "Order to compensate for expenses",
+              "decisions": 1,
+              "orders": 1,
+              "example": "402612-CO-2026"
+            }
+          ]
+        },
+        {
+          "issue": "Ticket, Reservation and Loyalty Program",
+          "decisions": 1,
+          "orders": 1,
+          "statements": [
+            {
+              "statement": "Order to refund",
+              "decisions": 1,
+              "orders": 1,
+              "example": "404058-CO-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "WS-WS1876-2024-01-27-YVR-OGG",
+      "carrier": "WS",
+      "flight": "WS1876",
+      "date": "2024-01-27",
+      "from": "YVR",
+      "to": "OGG",
+      "first": "2026-06-03",
+      "last": "2026-06-11",
+      "all": {
+        "decisions": 9,
+        "orders": 12,
+        "statements": [
+          {
+            "statement": "Order to compensate for inconvenience",
+            "decisions": 9,
+            "orders": 9,
+            "example": "396378-CO-2026"
+          },
+          {
+            "statement": "Dismissed",
+            "decisions": 3,
+            "orders": 3,
+            "example": "403724-CO-2026"
+          }
+        ]
+      },
+      "issues": [
+        {
+          "issue": "Flight Disruption",
+          "decisions": 9,
+          "orders": 12,
+          "statements": [
+            {
+              "statement": "Order to compensate for inconvenience",
+              "decisions": 9,
+              "orders": 9,
+              "example": "396378-CO-2026"
+            },
+            {
+              "statement": "Dismissed",
+              "decisions": 3,
+              "orders": 3,
+              "example": "403724-CO-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "AA-AA1516-2024-01-27-YUL-MIA",
+      "carrier": "AA",
+      "flight": "AA1516",
+      "date": "2024-01-27",
+      "from": "YUL",
+      "to": "MIA",
+      "first": "2024-05-16",
+      "last": "2026-09-10",
+      "all": {
+        "decisions": 8,
+        "orders": 9,
+        "statements": [
+          {
+            "statement": "Order to compensate for inconvenience",
+            "decisions": 7,
+            "orders": 7,
+            "example": "408250-CO-2026"
+          },
+          {
+            "statement": "Dismissed",
+            "decisions": 1,
+            "orders": 1,
+            "example": "400134-CO-2024"
+          },
+          {
+            "statement": "Order to refund",
+            "decisions": 1,
+            "orders": 1,
+            "example": "407486-CO-2026"
+          }
+        ]
+      },
+      "issues": [
+        {
+          "issue": "Flight Disruption",
+          "decisions": 8,
+          "orders": 9,
+          "statements": [
+            {
+              "statement": "Order to compensate for inconvenience",
+              "decisions": 7,
+              "orders": 7,
+              "example": "408250-CO-2026"
+            },
+            {
+              "statement": "Dismissed",
+              "decisions": 1,
+              "orders": 1,
+              "example": "400134-CO-2024"
+            },
+            {
+              "statement": "Order to refund",
+              "decisions": 1,
+              "orders": 1,
+              "example": "407486-CO-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "AA-AA1516-2024-01-27-YUL-TMB",
+      "carrier": "AA",
+      "flight": "AA1516",
+      "date": "2024-01-27",
+      "from": "YUL",
+      "to": "TMB",
+      "first": "2024-07-23",
+      "last": "2026-09-10",
+      "all": {
+        "decisions": 2,
+        "orders": 2,
+        "statements": [
+          {
+            "statement": "Dismissed",
+            "decisions": 1,
+            "orders": 1,
+            "example": "396469-CO-2024"
+          },
+          {
+            "statement": "Order to compensate for inconvenience",
+            "decisions": 1,
+            "orders": 1,
+            "example": "481985-CO-2026"
+          }
+        ]
+      },
+      "issues": [
+        {
+          "issue": "Flight Disruption",
+          "decisions": 2,
+          "orders": 2,
+          "statements": [
+            {
+              "statement": "Dismissed",
+              "decisions": 1,
+              "orders": 1,
+              "example": "396469-CO-2024"
+            },
+            {
+              "statement": "Order to compensate for inconvenience",
+              "decisions": 1,
+              "orders": 1,
+              "example": "481985-CO-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "AT-AT209-2023-12-23-YUL-CMN",
+      "carrier": "AT",
+      "flight": "AT209",
+      "date": "2023-12-23",
+      "from": "YUL",
+      "to": "CMN",
+      "first": "2024-09-17",
+      "last": "2026-05-27",
+      "all": {
+        "decisions": 9,
+        "orders": 12,
+        "statements": [
+          {
+            "statement": "Order to compensate for inconvenience",
+            "decisions": 7,
+            "orders": 7,
+            "example": "391895-CO-2024"
+          },
+          {
+            "statement": "Dismissed",
+            "decisions": 5,
+            "orders": 5,
+            "example": "392108-CO-2024"
+          }
+        ]
+      },
+      "issues": [
+        {
+          "issue": "Flight Disruption",
+          "decisions": 9,
+          "orders": 12,
+          "statements": [
+            {
+              "statement": "Order to compensate for inconvenience",
+              "decisions": 7,
+              "orders": 7,
+              "example": "391895-CO-2024"
+            },
+            {
+              "statement": "Dismissed",
+              "decisions": 5,
+              "orders": 5,
+              "example": "392108-CO-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "WS-WS2289-2023-12-23-SJD-YYC",
+      "carrier": "WS",
+      "flight": "WS2289",
+      "date": "2023-12-23",
+      "from": "SJD",
+      "to": "YYC",
+      "first": "2024-07-08",
+      "last": "2026-06-29",
+      "all": {
+        "decisions": 9,
+        "orders": 9,
+        "statements": [
+          {
+            "statement": "Order to compensate for expenses",
+            "decisions": 5,
+            "orders": 5,
+            "example": "389519-CO-2024"
+          },
+          {
+            "statement": "Dismissed",
+            "decisions": 3,
+            "orders": 3,
+            "example": "392923-CO-2024"
+          },
+          {
+            "statement": "Order to compensate for inconvenience",
+            "decisions": 1,
+            "orders": 1,
+            "example": "390596-CO-2024"
+          }
+        ]
+      },
+      "issues": [
+        {
+          "issue": "Flight Disruption",
+          "decisions": 9,
+          "orders": 9,
+          "statements": [
+            {
+              "statement": "Order to compensate for expenses",
+              "decisions": 5,
+              "orders": 5,
+              "example": "389519-CO-2024"
+            },
+            {
+              "statement": "Dismissed",
+              "decisions": 3,
+              "orders": 3,
+              "example": "392923-CO-2024"
+            },
+            {
+              "statement": "Order to compensate for inconvenience",
+              "decisions": 1,
+              "orders": 1,
+              "example": "390596-CO-2024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "PD-PD2940-2023-12-23-BOS-YTZ",
+      "carrier": "PD",
+      "flight": "PD2940",
+      "date": "2023-12-23",
+      "from": "BOS",
+      "to": "YTZ",
+      "first": "2026-05-26",
+      "last": "2026-07-17",
+      "all": {
+        "decisions": 3,
+        "orders": 6,
+        "statements": [
+          {
+            "statement": "Dismissed",
+            "decisions": 3,
+            "orders": 3,
+            "example": "399428-CO-2026"
+          },
+          {
+            "statement": "Order to compensate for inconvenience",
+            "decisions": 3,
+            "orders": 3,
+            "example": "399428-CO-2026"
+          }
+        ]
+      },
+      "issues": [
+        {
+          "issue": "Flight Disruption",
+          "decisions": 3,
+          "orders": 5,
+          "statements": [
+            {
+              "statement": "Order to compensate for inconvenience",
+              "decisions": 3,
+              "orders": 3,
+              "example": "399428-CO-2026"
+            },
+            {
+              "statement": "Dismissed",
+              "decisions": 2,
+              "orders": 2,
+              "example": "399428-CO-2026"
+            }
+          ]
+        },
+        {
+          "issue": "Baggage",
+          "decisions": 1,
+          "orders": 1,
+          "statements": [
+            {
+              "statement": "Dismissed",
+              "decisions": 1,
+              "orders": 1,
+              "example": "407060-CO-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "WS-WS2747-2023-12-23-CUN-YYZ",
+      "carrier": "WS",
+      "flight": "WS2747",
+      "date": "2023-12-23",
+      "from": "CUN",
+      "to": "YYZ",
+      "first": "2024-09-10",
+      "last": "2026-07-09",
+      "all": {
+        "decisions": 6,
+        "orders": 9,
+        "statements": [
+          {
+            "statement": "Order to compensate for inconvenience",
+            "decisions": 5,
+            "orders": 5,
+            "example": "390671-CO-2024"
+          },
+          {
+            "statement": "Dismissed",
+            "decisions": 2,
+            "orders": 3,
+            "example": "388585-CO-2025"
+          },
+          {
+            "statement": "Order to compensate for expenses",
+            "decisions": 1,
+            "orders": 1,
+            "example": "390613-CO-2024"
+          }
+        ]
+      },
+      "issues": [
+        {
+          "issue": "Flight Disruption",
+          "decisions": 6,
+          "orders": 9,
+          "statements": [
+            {
+              "statement": "Order to compensate for inconvenience",
+              "decisions": 5,
+              "orders": 5,
+              "example": "390671-CO-2024"
+            },
+            {
+              "statement": "Dismissed",
+              "decisions": 2,
+              "orders": 3,
+              "example": "388585-CO-2025"
+            },
+            {
+              "statement": "Order to compensate for expenses",
+              "decisions": 1,
+              "orders": 1,
+              "example": "390613-CO-2024"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "decisions": 79,
+  "orders": 98,
+  "skipped": 0
+}
