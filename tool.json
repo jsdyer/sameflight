@@ -19,7 +19,6 @@
   "data_info": {
     "mode": "mixed",
     "detail": "CTA summaries cover nine departures on December 23, 2023 and January 27, 2024. Compare published decisions and orders, or import a filtered agency export locally.",
-    "cadence": "Manual review",
     "probes": [
       {
         "label": "Data retrieved",
